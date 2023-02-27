@@ -1,0 +1,6 @@
+name=str(input("What's ur name?"))
+age=int(input("How old r u?"))
+place=str(input("Where r u live?"))
+print("(S)he is", name)
+print("(S)he is", age, "y.o.")
+print("(S)h live in", place)

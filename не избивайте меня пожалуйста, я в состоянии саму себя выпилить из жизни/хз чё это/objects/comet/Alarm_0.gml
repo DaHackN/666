@@ -1,0 +1,1 @@
+instance_create_depth(random(x), random(y), );
